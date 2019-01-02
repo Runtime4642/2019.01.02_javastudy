@@ -51,6 +51,7 @@ Shape triangle = new Triangle();<br>
 실행순서
 <br/>
 자식 생성자에 부모의 기본생성자가 무조껀 먼저 호출된다.
+
 ![Alt text](/2.png)
 
 <hr>
