@@ -115,8 +115,10 @@ Drawable circle3 = new Circle();<br>
 ![Alt text](4.png)
 
 <hr>
+
 예외 (try - catch - finally)
 ------
+
 1.로그남기기<br/>
 2.사과<br/>
 3.종료<br/>
