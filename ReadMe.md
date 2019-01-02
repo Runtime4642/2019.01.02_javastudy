@@ -111,7 +111,9 @@ Drawable circle3 = new Circle();<br>
 <hr>
 자바 패키지
 ---------
+
 ![Alt text](4.png)
+
 <hr>
 예외 (try - catch - finally)
 ------
@@ -119,4 +121,5 @@ Drawable circle3 = new Circle();<br>
 2.사과<br/>
 3.종료<br/>
 4.보통 큰회사는 예외처리 메뉴얼이 있고 그대로 따라하면 됨.<br/>
+
 ![Alt text](5.PNG)
